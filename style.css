@@ -1,0 +1,24 @@
+.divTag {
+    background-color: coral;
+    font-family: cursive;
+    font-size: 40px;
+    color: red;
+    border-style: double;
+    border-color: crimson;
+    transition-duration: 2s;
+}
+#bold{
+    
+}
+textarea{
+    width: 900px;
+    height:400px;
+}
+#title{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+body{
+    text-align: center;
+}
